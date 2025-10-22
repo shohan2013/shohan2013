@@ -2,6 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan2013&label=Profile%20views&color=0e75b6&style=flat" alt="shohan2013" /> </p>
+<p>
+  Results-driven Software Developer with over 6 years of experience in designing, developing, and implementing enterprise applications using .NET technologies and Oracle/SQL databases. Proficient in ASP.Net Core, MVC, Web API, and full-stack development with strong     analytical and problem-solving skills. Adept at working in cross-functional teams and delivering high-quality solutions.
+</p>
 
 - 🔭 I’m currently working on **Import Management System With Landed Cost.**
 
