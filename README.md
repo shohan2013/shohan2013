@@ -5,7 +5,12 @@
 <p>
   Results-driven Software Developer with over 6 years of experience in designing, developing, and implementing enterprise applications using .NET technologies and Oracle/SQL databases. Proficient in ASP.Net Core, MVC, Web API, and full-stack development with strong     analytical and problem-solving skills. Adept at working in cross-functional teams and delivering high-quality solutions.
 </p>
-
+<h4>Key Skills</h4>
+<ul>
+  <li>Programming: C#, C, C++</li>
+  <li>Database: Oracle 10g/12c/18c (PL/SQL), SQL Server, MS Access</li>
+  <li>Tools/IDE: Visual Studio (2010–2022), .NET Framework 2.0–8.0, Crystal Report</li>
+</ul>
 - 🔭 I’m currently working on **Import Management System With Landed Cost.**
 
 - 🌱 I’m currently learning **Kafka,Docker**
