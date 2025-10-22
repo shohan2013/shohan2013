@@ -25,13 +25,13 @@
    • Assisted in requirement analysis, coding, and deployment of enterprise solutions
 
 <h4>Projects</h4>
-• Inventory Management System
-• Import Management System
-• Landed Cost Management System
-• Export Management System
-• Payroll System
-• Tea Leaf Management System (Tea Garden)
-• Sales Management System
+• Inventory Management System<br/>
+• Import Management System<br/>
+• Landed Cost Management System<br/>
+• Export Management System<br/>
+• Payroll System<br/>
+• Tea Leaf Management System (Tea Garden)<br/>
+• Sales Management System<br/>
 
 - 👯 I’m looking to collaborate on **I’m interested in collaborating on open-source projects.**
 
