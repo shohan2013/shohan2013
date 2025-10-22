@@ -5,26 +5,26 @@
 <p>
   Results-driven Software Developer with over 6 years of experience in designing, developing, and implementing enterprise applications using .NET technologies and Oracle/SQL databases. Proficient in ASP.Net Core, MVC, Web API, and full-stack development with strong     analytical and problem-solving skills. Adept at working in cross-functional teams and delivering high-quality solutions.
 </p>
-<h4>Key Skills</h4>
+<h4 style="color:#008ae6">Key Skills</h4>
 <ul>
   <li>Programming: C#, C, C++</li>
   <li>Database: Oracle 10g/12c/18c (PL/SQL), SQL Server, MS Access</li>
   <li>Tools/IDE: Visual Studio (2010–2022), .NET Framework 2.0–8.0, Crystal Report</li>
 </ul>
 
-<h4>Professional Experience</h4>
-**Sr. Software Developer** – Akij Group (Feb 2023 – Present)
+<h4 style="color:#008ae6">Professional Experience</h4>
+**Sr. Software Developer** – Akij Group (Feb 2023 – Present) <br/>
    • Develop and implement enterprise software applications
    • Collaborate with business teams to deliver efficient solutions
    • Maintain and optimize existing systems<br>
-**Software Developer** – Anlima Group (Jan 2021 – Jan 2023)
+**Software Developer** – Anlima Group (Jan 2021 – Jan 2023)<br/>
    • Led development of a Yarn Dyeing Project using MVC and Oracle Database
-   • Enhanced system efficiency by streamlining database queries and processes<br>
-**Jr. Software Developer** – Technoheaven IT Software Ltd. (Jan 2019 – Dec 2020)
+   • Enhanced system efficiency by streamlining database queries and processes<br/>
+**Jr. Software Developer** – Technoheaven IT Software Ltd. (Jan 2019 – Dec 2020)<br/>
    • Developed web-based applications using ASP.Net MVC/Core and Oracle Database
    • Assisted in requirement analysis, coding, and deployment of enterprise solutions
 
-<h4>Projects</h4>
+<h4 style="color:#008ae6">Projects</h4>
 • Inventory Management System<br/>
 • Import Management System<br/>
 • Landed Cost Management System<br/>
