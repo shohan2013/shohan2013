@@ -5,7 +5,7 @@
 <p>
   Results-driven Software Developer with over 6 years of experience in designing, developing, and implementing enterprise applications using .NET technologies and Oracle/SQL databases. Proficient in ASP.Net Core, MVC, Web API, and full-stack development with strong     analytical and problem-solving skills. Adept at working in cross-functional teams and delivering high-quality solutions.
 </p>
-<h4 style="color:#008ae6">Key Skills</h4>
+<h4 style="color:rgb(14, 107, 165)">Key Skills</h4>
 <ul>
   <li>Programming: C#, C, C++</li>
   <li>Database: Oracle 10g/12c/18c (PL/SQL), SQL Server, MS Access</li>
