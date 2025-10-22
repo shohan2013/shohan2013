@@ -16,10 +16,10 @@
 **Sr. Software Developer** – Akij Group (Feb 2023 – Present)
    • Develop and implement enterprise software applications
    • Collaborate with business teams to deliver efficient solutions
-   • Maintain and optimize existing systems
+   • Maintain and optimize existing systems<br>
 **Software Developer** – Anlima Group (Jan 2021 – Jan 2023)
    • Led development of a Yarn Dyeing Project using MVC and Oracle Database
-   • Enhanced system efficiency by streamlining database queries and processes
+   • Enhanced system efficiency by streamlining database queries and processes<br>
 **Jr. Software Developer** – Technoheaven IT Software Ltd. (Jan 2019 – Dec 2020)
    • Developed web-based applications using ASP.Net MVC/Core and Oracle Database
    • Assisted in requirement analysis, coding, and deployment of enterprise solutions
