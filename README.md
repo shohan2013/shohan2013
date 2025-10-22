@@ -13,7 +13,7 @@
 </ul>
 
 <h4 style="color:rgb(14, 107, 165)">### Professional Experience</h4>
-**Sr. Software Developer** – Akij Group (Feb 2023 – Present) <br/>
+**Sr. Software Developer** – AkijBashir Group (Feb 2023 – Present) <br/>
    • Develop and implement enterprise software applications
    • Collaborate with business teams to deliver efficient solutions
    • Maintain and optimize existing systems<br>
