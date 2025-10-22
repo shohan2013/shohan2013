@@ -12,7 +12,7 @@
   <li>Tools/IDE: Visual Studio (2010–2022), .NET Framework 2.0–8.0, Crystal Report</li>
 </ul>
 
-<h4 style="color:rgb(14, 107, 165)">Professional Experience</h4>
+<h4 style="color:rgb(14, 107, 165)">### Professional Experience</h4>
 **Sr. Software Developer** – Akij Group (Feb 2023 – Present) <br/>
    • Develop and implement enterprise software applications
    • Collaborate with business teams to deliver efficient solutions
@@ -24,7 +24,7 @@
    • Developed web-based applications using ASP.Net MVC/Core and Oracle Database
    • Assisted in requirement analysis, coding, and deployment of enterprise solutions
 
-<h4 style="color:rgb(14, 107, 165)">Projects</h4>
+<h4 style="color:rgb(14, 107, 165)">### Projects</h4>
 • Inventory Management System<br/>
 • Import Management System<br/>
 • Landed Cost Management System<br/>
