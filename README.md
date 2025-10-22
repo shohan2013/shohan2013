@@ -24,9 +24,14 @@
    • Developed web-based applications using ASP.Net MVC/Core and Oracle Database
    • Assisted in requirement analysis, coding, and deployment of enterprise solutions
 
-- 🔭 I’m currently working on **Import Management System With Landed Cost.**
-
-- 🌱 I’m currently learning **Kafka,Docker**
+<h4>Projects</h4>
+• Inventory Management System
+• Import Management System
+• Landed Cost Management System
+• Export Management System
+• Payroll System
+• Tea Leaf Management System (Tea Garden)
+• Sales Management System
 
 - 👯 I’m looking to collaborate on **I’m interested in collaborating on open-source projects.**
 
