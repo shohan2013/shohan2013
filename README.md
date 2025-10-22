@@ -11,6 +11,19 @@
   <li>Database: Oracle 10g/12c/18c (PL/SQL), SQL Server, MS Access</li>
   <li>Tools/IDE: Visual Studio (2010–2022), .NET Framework 2.0–8.0, Crystal Report</li>
 </ul>
+
+<h4>Professional Experience</h4>
+**Sr. Software Developer** – Akij Group (Feb 2023 – Present)
+   • Develop and implement enterprise software applications
+   • Collaborate with business teams to deliver efficient solutions
+   • Maintain and optimize existing systems
+**Software Developer** – Anlima Group (Jan 2021 – Jan 2023)
+   • Led development of a Yarn Dyeing Project using MVC and Oracle Database
+   • Enhanced system efficiency by streamlining database queries and processes
+**Jr. Software Developer** – Technoheaven IT Software Ltd. (Jan 2019 – Dec 2020)
+   • Developed web-based applications using ASP.Net MVC/Core and Oracle Database
+   • Assisted in requirement analysis, coding, and deployment of enterprise solutions
+
 - 🔭 I’m currently working on **Import Management System With Landed Cost.**
 
 - 🌱 I’m currently learning **Kafka,Docker**
